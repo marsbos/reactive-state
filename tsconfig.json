@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "lib": ["es2015", "dom"],
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "jsx": "react",
+    "strict": false,
+    "allowJs": true,
+    "checkJs": true,
+    "noEmit": true,
+    "target": "es5",
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "esnext",
+    "resolveJsonModule": true,
+    "isolatedModules": true
+  },
+  "include": ["src/**/*.js", "src/**/*.tsx", "src/**/*.ts"],
+  "exclude": ["node_modules/"]
+}
