@@ -1,4 +1,4 @@
-### Statemanagement with RXJS, Ramda lenses & React Hooks (experimental phase)
+### Statemanagement with RXJS, Ramda lenses & React Hooks (conceptual)
 
 This library makes it easy to implement (global) state.
 It supports derived state as well, so you can easily collect state from different stores and turn it into its own store.
